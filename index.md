@@ -5,7 +5,7 @@
 ### 📘 Unidad 1: Fundamentos de la Programación
 
 -Contenidos, actividades y evidencias de aprendisaje de la primera unidad
-[Algoritmos](Unidad1.md)
+[Algoritmos](Unidad 1.md)
 
 ---
 
