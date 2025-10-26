@@ -14,50 +14,24 @@
 ---
 
 </div>
-## 📚 Unidades
-- 📘 [Unidad 1](unidad1.md)
-- ⚙️ [Unidad 2](unidad2.md)
-- 🧩 [Unidad 3](unidad3.md)
-## 🧩 **Unidad 1 – Algoritmos y Estructuras Secuenciales**
 
-🌿 **Contenidos:**
-- 🧠 Algoritmos, pseudocódigo y diagrama de flujo  
-- 🧩 Programación por bloques  
-- ⚙️ Ejemplos de algoritmos con estructuras lineales/secuenciales  
-- 🚧 Principales dificultades en la aplicación de los contenidos  
-- 💭 Reflexión crítica de los aprendizajes de la unidad  
+## 📚 **Unidades del Portafolio**
 
----
 
-## 📘 **Tareas Entregadas**
+| 🧠 **Unidad 1** | [Abrir Unidad 1](Unidad1.md) |
 
-- 🧮 Herramientas de algoritmos (pseudocódigo y diagramas de flujo).[Tarea1](Naranjo_Pilar.Informe1.pdf)
-- 💻 Instalación de lenguajes de programación (C, Python o Java)  
-- ✍️ Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo  
-- 🔧 Del diseño del algoritmo con estructuras secuenciales a la construcción del programa  
+| ⚙️ **Unidad 2** | [Abrir Unidad 2](Unidad2.md) |
 
----
-
-## 🧭 **Conclusiones**
-> 💡 *La teoría de la programación permite comprender los principios que sustentan el desarrollo del software, fomentando el pensamiento lógico y estructurado para crear soluciones efectivas.*
-
----
-
-## 📚 **Referencias**
-- 📖 Documentación oficial de lenguajes de programación  
-- 🌐 Tutoriales académicos y fuentes confiables en línea  
-- 🧾 Material proporcionado por el docente  
-
----
-
-## 🤖 **Uso de la IA Generativa**
-> 🪄 Se empleó **IA generativa (ChatGPT)** como apoyo para la **redacción**, **organización de ideas** y **corrección ortográfica**, garantizando una presentación clara y profesional del portafolio.  
+| 🧩 **Unidad 3** | [Abrir Unidad 3](Unidad3.md) |
 
 ---
 
 <div align="center">
 
-✨ *Universidad Nacional de Loja – Facultad de Energía, Industrias y Recursos Naturales No Renovables* ✨  
-🖥️ *Carrera de Computación* 🖥️
+🌿✨ *Universidad Nacional de Loja* ✨🌿  
+🏫 *Facultad de Energía, Industrias y Recursos Naturales No Renovables*  
+🖥️ *Carrera de Computación – Teoría de la Programación* 🖥️  
+
+---
 
 </div>
