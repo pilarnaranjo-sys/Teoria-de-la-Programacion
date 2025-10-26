@@ -1,4 +1,4 @@
-🌿 #**Contenidos:**#
+#🌿**Contenidos:**
 - 🧠 Algoritmos, pseudocódigo y diagrama de flujo  
 - 🧩 Programación por bloques  
 - ⚙️ Ejemplos de algoritmos con estructuras lineales/secuenciales  
