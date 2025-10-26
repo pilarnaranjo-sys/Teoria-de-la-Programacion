@@ -16,23 +16,26 @@
 ---
 
 ## 🧩 **Unidad 1 – Algoritmos y Estructuras Secuenciales**
--Algoritmos, pseudocódigo, diagrama de flujo
----
-### 📘 Unidad 1: Fundamentos de la Programación
 
--Contenidos, actividades y evidencias de aprendisaje de la primera unidad
-[Algoritmos](Unidad_1.md)
+-Algoritmos, pseudocódigo, diagrama de flujo.
 
----
+-Programación por bloques.
 
-### ⚙️ Unidad 2: Estructuras de Control y Datos
-- Desarrollon de proyectos, practicas y reflexiones correspondientes a la segunda unidad Contenidos, actividades y evidencias de aprendisaje de la primera unidad
----
+-Ejemplos de algoritmos con estructuras lineales/secuenciales.
 
-### 🧩 Unidad 3: Algoritmos y Lógica Computacional
-- Diseño de algoritmos eficientes.  
-- Identificación de errores: léxicos, sintácticos y lógicos.  
-- Aplicaciones en resolución de problemas.  
+-Principales dificultades en la aplicación de los contenidos.
+
+-Reflexión crítica de los aprendizajes de la unidad.
+
+##**Tareas entregradas**##
+
+-Herramientas de algoritmos (pseudocódigo y diagramas de flujo).
+
+-Instalación de lenguajes de programación (C, Python o Java).
+
+-Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigoTarea
+
+-Del diseño del algoritmo con estructuras secuenciales a la construcción del programa
 
 ---
 
