@@ -1,2 +1,3 @@
-[## 🌿**Contenidos:**](Contenidos.md)
-Tareas entregagas 
+## 🌿 [**Contenidos**](Contenidos.md)
+
+## 📘 [**Tareas Entregadas**](TareasEntregadas.md)
