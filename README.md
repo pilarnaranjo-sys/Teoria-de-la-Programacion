@@ -14,7 +14,10 @@
 ---
 
 </div>
-
+## 📚 Unidades
+- 📘 [Unidad 1](unidad1.md)
+- ⚙️ [Unidad 2](unidad2.md)
+- 🧩 [Unidad 3](unidad3.md)
 ## 🧩 **Unidad 1 – Algoritmos y Estructuras Secuenciales**
 
 🌿 **Contenidos:**
