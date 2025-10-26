@@ -1,5 +1,3 @@
-## 📘 **Tareas Entregadas**
-
 - 🧮 Herramientas de algoritmos (pseudocódigo y diagramas de flujo).[Tarea 1](Naranjo_Pilar.Informe1.pdf)
 - 💻 Instalación de lenguajes de programación (C, Python o Java).[Tarea 2](Naranjo.Pilar_FundamentosdeAlgoritmosyProgramas.pdf)
 - ✍️ Primer acercamiento a la construcción de algoritmos con estructuras secuenciales
