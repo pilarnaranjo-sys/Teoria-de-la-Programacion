@@ -6,4 +6,4 @@
   en pseudocódigo.[Tarea 3](NARANJO_QUIZHPE_PILAR_VALENTINA_PL1.psc.pdf)
 - 🔧 Del diseño del algoritmo con estructuras secuenciales a la construcción del programa
   
-[⬅️ Volver a la página anterior](../Unidad1.md)
+[⬅️ Volver a la página anterior](Unidad1.md)
