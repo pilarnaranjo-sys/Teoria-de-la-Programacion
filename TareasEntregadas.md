@@ -7,5 +7,5 @@
 - 🔧 Del diseño del algoritmo con estructuras secuenciales a la construcción del programa
   
 <p align="center">
-  <a href="../README.md">⬅️ <b>Volver al Portafolio</b></a>
+  <a href="../LÉAME.md">⬅️ <b>Volver al Portafolio</b></a>
 </p>
