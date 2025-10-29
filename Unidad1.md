@@ -1,3 +1,11 @@
+## 📖 **Contenidos**
+
+- 🧠 Algoritmos, diagrama de flujo y pseudocódigo.[Detalles](Pseudocódigo.md)
+- 🧩 Programación por bloques.[Detalles](ProgramacionB.md)
+- ⚙️ Ejemplos de algoritmos con estructuras lineales/secuenciales.[Detalles](Ejemplosc.md)
+- 🚧 Principales dificultades en la aplicación de los contenidos.[Detalles](dificultades.md)
+- 💭 Reflexión crítica de los aprendizajes de la unidad.[Detalles](Refexion.md)
+
 ## 📑 **Tareas EntregadaS**
 
 - 🧮 Herramientas de algoritmos (pseudocódigo y diagramas de flujo).[Tarea 1](Naranjo_Pilar.Informe1.pdf)
