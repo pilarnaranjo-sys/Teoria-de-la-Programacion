@@ -26,12 +26,10 @@
 
 ---
 
-<div align="center">
+</div>
 
-🌿✨ *Universidad Nacional de Loja* ✨🌿  
-🏫 *Facultad de Energía, Industrias y Recursos Naturales No Renovables*  
-🖥️ *Carrera de Computación – Teoría de la Programación* 🖥️  
+### 🤖 Uso de Inteligencia Artificial y herramientas digitales
 
----
+La elaboración de este portafolio digital se realizó con el apoyo de **ChatGPT**, que actuó como guía en el aprendizaje y manejo de **GitHub y Markdown**. Mediante esta orientación, se logro organizar y presentar los contenidos de manera clara y ordenada, integrando texto, ejemplos de código y diagramas de forma coherente.
 
 </div>
