@@ -41,6 +41,9 @@ Ayuda a visualizar la lógica de un proceso, comprender y corregir errores y ens
 
 
 ### 🧩 *Ejemplo Diagrama de Flujo:*
+
+
+
 ## **Bibliografia**
 
 [1] E. Guzmán y Valle, *Algorítmica y herramientas de algorítmica*. Universidad Nacional de Educación Enrique Guzmán y Valle, 2021. [En línea]. Disponible en: https://repositorio.une.edu.pe/server/api/core/bitstreams/f153ea49-94e3-4f8f-8768-d5e1dfa59def/content
