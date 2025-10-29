@@ -15,20 +15,22 @@ El **pseudocódigo** es una forma intermedia entre el lenguaje natural y el leng
 Facilita la comprensión, modificación y posterior traducción a lenguajes como Python, C o Java.  
 
 ### 🧩 *Ejemplo de pseudocódigo:*
-**Algoritmo Area.triangulo**
-	//Variables
-	Definir a Como Real;
-	Definir b Como Real;	
-	//Ingreso de datos 
-	Escribir "Ingrese el valor de la base";
-	Leer a;
-	Escribir "Ingrese le valor de la altura";
-	Leer b;
-	//Proceso 
-	Resultado = (a * b) / 2 ;
-	// Salida de datos 
-	Escribir "El area del triangulo es: ", resultado;
-**FinAlgoritmo**
+
+```plaintext
+Algoritmo Area.triangulo
+    // Variables
+    Definir a Como Real
+    Definir b Como Real
+    // Ingreso de datos 
+    Escribir "Ingrese el valor de la base"
+    Leer a
+    Escribir "Ingrese el valor de la altura"
+    Leer b
+    // Proceso 
+    Resultado <- (a * b) / 2
+    // Salida de datos 
+    Escribir "El area del triangulo es: ", Resultado
+FinAlgoritmo
 
 ---
 
@@ -37,16 +39,9 @@ Facilita la comprensión, modificación y posterior traducción a lenguajes como
 El **diagrama de flujo** es una es una representación gráfica de un algoritmo, que muestra los pasos mediante símbolos y flechas que indican la secuencia de operaciones.
 Ayuda a visualizar la lógica de un proceso, comprender y corregir errores y enseñar programación.
 
-### 🧱 *Principales símbolos:*
-| Símbolo | Significado |
-|----------|--------------|
-| ⏹️ | Inicio / Fin |
-| ⬜ | Proceso o cálculo |
-| 🔺 | Decisión (Sí / No) |
-| ⏺️ | Entrada o salida de datos |
-| ➡️ | Dirección del flujo |
 
 ### 🧩 *Ejemplo Diagrama de Flujo:*
-##**Bibliografia**
+## **Bibliografia**
+
 [1] E. Guzmán y Valle, *Algorítmica y herramientas de algorítmica*. Universidad Nacional de Educación Enrique Guzmán y Valle, 2021. [En línea]. Disponible en: https://repositorio.une.edu.pe/server/api/core/bitstreams/f153ea49-94e3-4f8f-8768-d5e1dfa59def/content
 
