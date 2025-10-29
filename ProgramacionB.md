@@ -16,7 +16,7 @@ Este enfoque promueve el Pensamiento Computacional, ya que ayuda a los alumnos a
 
 ## 🧱 Ejemplo de la Programación por Bloques
 
-![Ejemplo de Programación por Bloques](https://upload.wikimedia.org/wikipedia/commons/1/18/Scratch_blocks_example.png)
+![](https://github.com/pilarnaranjo-sys/Teoria-de-la-Programacion/blob/main/Programacion.b.png?raw=true)
 
 ---
 
