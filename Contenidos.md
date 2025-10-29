@@ -1,7 +1,7 @@
 ## 📖 **Contenidos**
 
 - 🧠 Algoritmos, diagrama de flujo y pseudocódigo.[Detalles](Pseudocódigo.md)
-- 🧩 Programación por bloques  
+- 🧩 Programación por bloques.[Detalles](Programacion.B)
 - ⚙️ Ejemplos de algoritmos con estructuras lineales/secuenciales  
 - 🚧 Principales dificultades en la aplicación de los contenidos  
 - 💭 Reflexión crítica de los aprendizajes de la unidad  
