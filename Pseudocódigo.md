@@ -39,10 +39,9 @@ FinAlgoritmo
 El **diagrama de flujo** es una es una representación gráfica de un algoritmo, que muestra los pasos mediante símbolos y flechas que indican la secuencia de operaciones.
 Ayuda a visualizar la lógica de un proceso, comprender y corregir errores y enseñar programación.
 
-
 ### 🧩 *Ejemplo Diagrama de Flujo:*
 
-
+![](https://github.com/pilarnaranjo-sys/Teoria-de-la-Programacion/blob/4bf029e2fe47d7924921633bf944d0282c5dbcca/Diagrama.md.png)
 
 ## **Bibliografia**
 
