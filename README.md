@@ -28,6 +28,10 @@
 
 </div>
 
+### [Conclusiones generales]
+
+### [Bibliografia]
+
 ### 🤖 Uso de Inteligencia Artificial y herramientas digitales
 
 La elaboración de este portafolio digital se realizó con el apoyo de **ChatGPT**, que actuó como guía en el aprendizaje y manejo de **GitHub y Markdown**. Mediante esta orientación, se logro organizar y presentar los contenidos de manera clara y ordenada, integrando texto, ejemplos de código y diagramas de forma coherente.
