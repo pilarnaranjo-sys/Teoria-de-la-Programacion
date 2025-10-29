@@ -1,4 +1,4 @@
-# 🧮 Algoritmos, pseudocódigo, diagrama de flujo.
+# 🧮 Algoritmos, diagrama de flujo, pseudocódigo.
 
 ## ⚙️ **Algoritmo**
 
@@ -44,7 +44,7 @@ FinAlgoritmo
 
 ---
 
-## *Bibliografía*
+## **Bibliografía**
 
 [1] E. Guzmán y Valle, *Algorítmica y herramientas de algorítmica*. Universidad Nacional de Educación Enrique Guzmán y Valle, 2021.  
-[En línea]. Disponible en: [https://repositorio.une.edu.pe/server/api/core/bitstreams/f153ea49-94e3-4f8f-8768-d5e1dfa59def/content](https://repositorio.une.edu.pe/server/api/core/bitstreams/f153ea49-94e3-4f8f-8768-d5e1dfa59def/content)
+. Disponible en:https://repositorio.une.edu.pe/server/api/core/bitstreams/f153ea49-94e3-4f8f-8768-d5e1dfa59def/content
