@@ -1,5 +1,9 @@
+<div align="center">
+
 # 🎓✨ **Portafolio Digital de Aprendizaje**
 ## 🖥️ *Teoría de la Programación*
+
+</div>
 
 ---
 
@@ -17,24 +21,25 @@
 
 ## 📚 **Unidades del Portafolio**
 
-
-| 🧠 **Unidad 1** | [Abrir Unidad 1](Unidad1.md) |
-
-| ⚙️ **Unidad 2** | [Abrir Unidad 2](Unidad2.md) |
-
-| 🧩 **Unidad 3** | [Abrir Unidad 3](Unidad3.md) |
+| 🧠 **Unidad 1** | [📂 Abrir](Unidad1.md) |
+|:---------------:|:---------------------:|
+| ⚙️ **Unidad 2** | [📂 Abrir](Unidad2.md) |
+| 🧩 **Unidad 3** | [📂 Abrir](Unidad3.md) |
 
 ---
 
-</div>
+## 🧾 **Conclusiones Generales**
 
-### [Conclusiones generales] Pr5oximamemente 
+📌 *Próximamente...*  
+Aquí se presentarán las reflexiones finales sobre el proceso de aprendizaje y las competencias adquiridas durante el desarrollo del portafolio.
 
-## 📚 [**Bibliografía**](Bibliografia.md)
+---
+
+## 📚 **[Bibliografía](Bibliografia.md)**
+
+---
+
+## 🤖 **Uso de Inteligencia Artificial y Herramientas Digitales**
 
 
-### 🤖 Uso de Inteligencia Artificial y herramientas digitales
 
-La elaboración de este portafolio digital se realizó con el apoyo de **ChatGPT**, que actuó como guía en el aprendizaje y manejo de **GitHub y Markdown**. Mediante esta orientación, se logro organizar y presentar los contenidos de manera clara y ordenada, integrando texto, ejemplos de código y diagramas de forma coherente.
-
-</div>
