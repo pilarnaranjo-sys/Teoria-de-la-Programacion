@@ -119,10 +119,9 @@ Un diagrama de flujo es una representación gráfica que muestra de manera clara
 
 ### 🧩 *Ejemplo 2:*
 
-![](https://github.com/pilarnaranjo-sys/Teoria-de-la-Programacion/blob/4bf029e2fe47d7924921633bf944d0282c5dbcca/Diagrama.md.png)
+![](<img width="248" height="515" alt="Captura de pantalla 2025-10-30 203946" src="https://github.com/user-attachments/assets/52955eb7-fe08-4512-9515-8cae253062cb" />)
 
 ### 🧩 *Ejemplo 1:*
 
-![](https://github.com/pilarnaranjo-sys/Teoria-de-la-Programacion/blob/4bf029e2fe47d7924921633bf944d0282c5dbcca/Diagrama.md.png)
-
-
+![](<img width="368" height="499" alt="Captura de pantalla 2025-10-30 204037" src="https://github.com/user-attachments/assets/a68fbad1-fd96-408a-85e1-d8e292a9c7f7" />
+)
