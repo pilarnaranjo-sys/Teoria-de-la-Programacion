@@ -42,7 +42,3 @@ FinAlgoritmo
 ```
 
 ---
-
-## **Bibliografía**
-
-[1] E. Guzmán y Valle. “Algorítmica y herramientas de algorítmicas.” UNE :: Inicio. Accedido el 24 de octubre de 2025. [En línea]. Disponible: https://repositorio.une.edu.pe/server/api/core/bitstreams/f153ea49-94e3-4f8f-8768-d5e1dfa59def/content
