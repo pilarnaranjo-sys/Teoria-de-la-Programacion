@@ -12,7 +12,7 @@
 - 💻 Instalación de lenguajes de programación (C, Python o Java).[Tarea 2](Tareas/Naranjo_Pilar_Instalacion.pdf)
 - ✍️ Primer acercamiento a la construcción de algoritmos con estructuras secuenciales
   en pseudocódigo.[Tarea 3](Tareas/NARANJO_PILAR_PL1.psc.pdf)
-- 🔧 Del diseño del algoritmo con estructuras secuenciales a la construcción del programa.[Tarea 4](Naranjo_Pilar_Reporte_técnico.pdf)
+- 🔧 Del diseño del algoritmo con estructuras secuenciales a la construcción del programa.[Tarea 4](Tareas/Naranjo_Pilar_Reporte_técnico.pdf)
   
 
 [⬅️ Volver al inicio](README.md)
