@@ -20,7 +20,9 @@ El **diagrama de flujo** es una es una representación gráfica de un algoritmo,
 
 ## 💻 **Pseudocódigo**
 
-El **pseudocódigo** es una forma intermedia entre el lenguaje natural y el lenguaje de programación. Permite expresar la lógica de un algoritmo sin preocuparse por la sintaxis exacta de un lenguaje específico.  Facilita la comprensión, modificación y posterior traducción a lenguajes como Python, C o Java[1].  
+El pseudocódigo es una forma intermedia entre el lenguaje natural y el lenguaje de programación. Permite expresar la lógica de un algoritmo sin preocuparse por la sintaxis exacta de un lenguaje específico, lo que facilita su comprensión, modificación y posterior traducción a lenguajes como Python, C o Java [1].
+
+Además, el pseudocódigo es una herramienta fundamental en la enseñanza de la programación, ya que ayuda a los estudiantes a comprender la estructura y la lógica de los algoritmos sin necesidad de conocer la sintaxis formal de un lenguaje real. Su principal ventaja es el uso de la lengua materna, lo que reduce la carga cognitiva y favorece la comprensión de los conceptos básicos [3].
 
 ### 🧩 *Ejemplo de pseudocódigo:*
 
