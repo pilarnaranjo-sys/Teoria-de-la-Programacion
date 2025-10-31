@@ -39,7 +39,7 @@ Aquí se presentarán las reflexiones finales sobre el proceso de aprendizaje y 
 
 ---
 
-## 🤖 **Uso de Inteligencia Artificial y Herramientas Digitales**
+## 🤖 **Uso de Inteligencia Artificial y Herramientas Digitales**(UsodeIA.md)
 
 
 
