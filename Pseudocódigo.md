@@ -10,7 +10,7 @@ Todo algoritmo tiene **entrada**, **proceso** y **salida**, y debe cumplir con c
 ---
 ## 🔷 **Diagrama de flujo**
 
-El **diagrama de flujo** es una es una representación gráfica de un algoritmo, que muestra los pasos mediante símbolos y flechas que indican la secuencia de operaciones. Ayuda a visualizar la lógica de un proceso, comprender y corregir errores y enseñar programación[1].
+Un diagrama de flujo es una representación gráfica que muestra de manera clara y ordenada la secuencia de pasos o rutinas que conforman un proceso. Su objetivo principal es visualizar la estructura y el desarrollo de una actividad, permitiendo identificar las unidades involucradas, los responsables y la relación entre las distintas etapas. Se utiliza ampliamente en empresas e instituciones, tanto industriales como de servicios, por su capacidad para representar procedimientos administrativos, técnicos o de cualquier tipo de proceso que requiera organización y análisis[2].
 
 ### 🧩 *Ejemplo Diagrama de Flujo:*
 
