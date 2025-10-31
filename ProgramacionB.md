@@ -16,6 +16,6 @@ Este enfoque promueve el Pensamiento Computacional, ya que ayuda a los alumnos a
 
 ## 🧱 Ejemplo de la Programación por Bloques
 
-![](https://github.com/pilarnaranjo-sys/Teoria-de-la-Programacion/blob/main/Programacion.b.png?raw=true)
+![](https://github.com/pilarnaranjo-sys/Teoria-de-la-Programacion/blob/fc8a132b122821e39781f2416dc9235e2e821ccd/Imagenes/Programacion.b.png)
 
 ---
