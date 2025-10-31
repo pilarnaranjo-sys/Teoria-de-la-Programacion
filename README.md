@@ -30,16 +30,13 @@
 
 ## 🧾 **Conclusiones Generales**
 
-📌 *Próximamente...*  
-Aquí se presentarán las reflexiones finales sobre el proceso de aprendizaje y las competencias adquiridas durante el desarrollo del portafolio.
-
 ---
 
 ## 📚 **[Bibliografía](Bibliografia.md)**
 
 ---
 
-## 🤖 **Uso de Inteligencia Artificial y Herramientas Digitales**(UsodeIA.md)
+## 🤖 **[Uso de Inteligencia Artificial y Herramientas Digitales](UsodeIA.md)**
 
 
 
