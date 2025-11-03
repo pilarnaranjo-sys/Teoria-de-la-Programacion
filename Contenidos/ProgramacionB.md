@@ -40,7 +40,9 @@ El personaje debe moverse por una cuadrícula para recolectar ingredientes (lech
 **Cómo se resolvió:**  
 - Se utilizaron bloques **“repetir X veces”** para mover al personaje varias casillas en una dirección (derecha, izquierda, abajo).  
 - Luego se incluyeron los bloques de acción **(“agarrar lechuga”, “agarrar tomate”)** en los momentos correctos.  
-- Al final, el bloque **“preparar ensalada”** indica que se completó la tarea.  
+- Al final, el bloque **“preparar ensalada”** indica que se completó la tarea.
+- 
+![](https://github.com/pilarnaranjo-sys/Teoria-de-la-Programacion/blob/f63faac9126749566c718623f0066d99e95ef7f0/Imagenes/Captura%20de%20pantalla%202025-11-03%20181515.png)
 
 ---
 
@@ -52,6 +54,8 @@ El reto consiste en dibujar una **estrella de cinco puntas** de color amarillo.
 **Cómo se resolvió:**  
 - Se usó el bloque **“repetir 5 veces”**, que representa un ciclo o bucle.  
 - Dentro del bucle, el programa **avanza una distancia fija** y luego **gira a la derecha 144°**, formando las puntas de la estrella.  
-- Con el bloque **“establecer color a amarillo”**, se definió el color del trazo.  
+- Con el bloque **“establecer color a amarillo”**, se definió el color del trazo.
+
+![](https://github.com/pilarnaranjo-sys/Teoria-de-la-Programacion/blob/f63faac9126749566c718623f0066d99e95ef7f0/Imagenes/Captura%20de%20pantalla%202025-11-03%20183451.png)
 
 ---
