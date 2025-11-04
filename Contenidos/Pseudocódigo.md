@@ -21,6 +21,9 @@ Permite expresar la lógica de un algoritmo sin preocuparse por la sintaxis exac
 Además, el pseudocódigo es una herramienta fundamental en la enseñanza de la programación, ya que ayuda a los estudiantes a comprender la estructura y la lógica de los algoritmos sin necesidad de conocer la sintaxis formal de un lenguaje real.  
 Su principal ventaja es el uso de la **lengua materna**, lo que reduce la carga cognitiva y favorece la comprensión de los conceptos básicos [2].
 
+Para complementar su aplicación, se utilizan las pruebas de escritorio, una técnica que permite verificar el funcionamiento lógico del algoritmo antes de programarlo.
+Mediante esta simulación manual, se comprueba paso a paso que las operaciones y los resultados obtenidos sean correctos, identificando posibles errores o inconsistencias en la secuencia de instrucciones.
+
 ---
 
 ### 🧩 **Ejemplo 1 — Calcular el área de un triángulo**
@@ -49,6 +52,14 @@ Algoritmo Area.triangulo
 FinAlgoritmo
 ```
 
+🧮 **Prueba de escritorio**
+
+| Entrada (a, b) | Proceso                 | Resultado esperado |
+|----------------|-------------------------|--------------------|
+| a = 6, b = 4   | (6 × 4) / 2 = 12        | El área es 12      |
+| a = 10, b = 5  | (10 × 5) / 2 = 25       | El área es 25      |
+
+
 ### 🧩 **Ejemplo 2 — Longitud y área de un círculo**
 
 Calcular la longitud (perímetro) y el área de un círculo utilizando las fórmulas  
@@ -59,7 +70,6 @@ El programa solicita el radio y muestra ambos resultados.
 **⚙️ Proceso:**  
 - Longitud = 2 × π × r  
 - Área = π × r²  
-
 **📤 Salida:** Longitud del círculo y área del círculo
 
 ```
@@ -77,6 +87,14 @@ Algoritmo Longitud.Area
     Escribir "El área del círculo es: ", Resultado2
 FinAlgoritmo
 ```
+
+🧮 **Prueba de escritorio**
+
+| Entrada (r) | Proceso                                                     | Resultados esperados                  |
+|--------------|-------------------------------------------------------------|---------------------------------------|
+| r = 3        | Longitud = 2 × π × 3 = 18.85 <br> Área = π × 3² = 28.27     | Longitud = 18.85 <br> Área = 28.27    |
+| r = 5        | Longitud = 2 × π × 5 = 31.42 <br> Área = π × 5² = 78.54     | Longitud = 31.42 <br> Área = 78.54    |
+
 
 ### 🧩 **Ejemplo 3 — Calcular el promedio de tres notas**
 
@@ -105,6 +123,14 @@ Algoritmo Promedio.Notas
     Escribir "El promedio final del estudiante es: ", promedio
 FinAlgoritmo
 ```
+
+🧮 **Prueba de escritorio**
+
+| Entrada (n1, n2, n3) | Proceso                                     | Resultado esperado |
+|----------------------|----------------------------------------------|--------------------|
+| 8, 9, 10             | (8×0.3)+(9×0.3)+(10×0.4) = 9.1              | Promedio = 9.1     |
+| 7, 8, 6              | (7×0.3)+(8×0.3)+(6×0.4) = 6.9               | Promedio = 6.9     |
+
 ---
 
 ## 🔷 **Diagrama de flujo**
