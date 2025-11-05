@@ -22,7 +22,7 @@ Además, el pseudocódigo es una herramienta fundamental en la enseñanza de la 
 Su principal ventaja es el uso de la **lengua materna**, lo que reduce la carga cognitiva y favorece la comprensión de los conceptos básicos [2].
 
 Para complementar su aplicación, se utilizan las pruebas de escritorio, una técnica que permite verificar el funcionamiento lógico del algoritmo antes de programarlo.
-Mediante esta simulación manual, se comprueba paso a paso que las operaciones y los resultados obtenidos sean correctos, identificando posibles errores o inconsistencias en la secuencia de instrucciones.
+Mediante esta simulación manual, se comprueba paso a paso que las operaciones y los resultados obtenidos sean correctos, identificando posibles errores o inconsistencias en la secuencia de instrucciones[1].
 
 ---
 
