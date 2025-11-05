@@ -59,3 +59,5 @@ El reto consiste en dibujar una **estrella de cinco puntas** de color amarillo.
 ![](https://github.com/pilarnaranjo-sys/Teoria-de-la-Programacion/blob/f63faac9126749566c718623f0066d99e95ef7f0/Imagenes/Captura%20de%20pantalla%202025-11-03%20183451.png)
 
 ---
+
+[⬅️ Volver al inicio](README.md)
