@@ -60,4 +60,3 @@ El reto consiste en dibujar una **estrella de cinco puntas** de color amarillo.
 
 ---
 
-[⬅️ Volver al inicio](Unidad1.md)
