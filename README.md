@@ -28,7 +28,7 @@
 
 ---
 
-## 🧾 **Conclusiones Generales**
+## 🧾 **Conclusiones Generales**(Proximamente)
 
 ---
 
