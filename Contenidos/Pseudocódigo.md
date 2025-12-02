@@ -5,11 +5,8 @@
 ## ⚙️ **Algoritmo**
 
 Un **algoritmo** es un conjunto de **pasos ordenados y precisos** que permiten resolver un problema o realizar una tarea específica.  
-Todo algoritmo tiene **entrada**, **proceso** y **salida**, y debe cumplir con ciertas características: ser **claro, definido, finito, válido, eficiente y legible** [1].  
-
-> **Ejemplo 1:** Calcular el área de un triángulo a partir de su base y su altura.  
-> **Ejemplo 2:** Calcular la longitud (perímetro) y el área de un círculo con un radio dado.  
-> **Ejemplo 3:** Calcular el promedio final de un estudiante a partir de tres calificaciones con diferentes ponderaciones.
+Todo algoritmo tiene **entrada**, **proceso** y **salida**, y debe cumplir con ciertas características: ser **claro, definido, finito, 
+válido, eficiente y legible**[1].  
 
 ---
 
@@ -26,6 +23,14 @@ Mediante esta simulación manual, se comprueba paso a paso que las operaciones y
 
 ---
 
+## 🔷 **Diagrama de flujo**
+
+Un diagrama de flujo es una representación gráfica que muestra de manera clara y ordenada la secuencia de pasos o rutinas que conforman un proceso. Su objetivo principal es visualizar la estructura y el desarrollo de una actividad, permitiendo identificar las unidades involucradas, los responsables y la relación entre las distintas etapas. Se utiliza ampliamente en empresas e instituciones, tanto industriales como de servicios, por su capacidad para representar procedimientos administrativos, técnicos o de cualquier tipo de proceso que requiera organización y análisis[3].
+
+---
+
+---
+
 ### 🧩 **Ejemplo 1 — Calcular el área de un triángulo**
 
 Calcular el área de un triángulo aplicando la fórmula **(base × altura) / 2**.  
@@ -34,6 +39,10 @@ Este pseudocódigo solicita al usuario la base y la altura, realiza el cálculo 
 **📥 Datos de entrada:** Base (a), Altura (b)  
 **⚙️ Proceso:** Multiplicar base por altura y dividir entre 2  
 **📤 Salida:** Área del triángulo
+
+---
+
+### 💻 **Pseudocódigo**
 
 ```plaintext
 Algoritmo Area.triangulo
@@ -59,6 +68,13 @@ FinAlgoritmo
 | a = 6, b = 4   | (6 × 4) / 2 = 12        | El área es 12      |
 | a = 10, b = 5  | (10 × 5) / 2 = 25       | El área es 25      |
 
+---
+
+### 🧩 Diagrama de Flujo:
+
+![](https://github.com/pilarnaranjo-sys/Teoria-de-la-Programacion/blob/3ac089725f035ccd2811bcdc2b54232a53558a3a/Imagenes/Diagrama.md.png)
+
+---
 
 ### 🧩 **Ejemplo 2 — Longitud y área de un círculo**
 
@@ -71,6 +87,10 @@ El programa solicita el radio y muestra ambos resultados.
 - Longitud = 2 × π × r  
 - Área = π × r²  
 **📤 Salida:** Longitud del círculo y área del círculo
+
+---
+
+### 💻 **Pseudocódigo**
 
 ```
 Algoritmo Longitud.Area
@@ -95,6 +115,13 @@ FinAlgoritmo
 | r = 3        | Longitud = 2 × π × 3 = 18.85 <br> Área = π × 3² = 28.27     | Longitud = 18.85 <br> Área = 28.27    |
 | r = 5        | Longitud = 2 × π × 5 = 31.42 <br> Área = π × 5² = 78.54     | Longitud = 31.42 <br> Área = 78.54    |
 
+---
+
+### 🧩 Diagrama de Flujo:
+
+![](https://github.com/pilarnaranjo-sys/Teoria-de-la-Programacion/blob/36c22e6a884e552d58308d31aa062fceb62fc97d/Imagenes/Captura%20de%20pantalla%202025-10-30%20204037.png)
+
+
 
 ### 🧩 **Ejemplo 3 — Calcular el promedio de tres notas**
 
@@ -105,6 +132,10 @@ El programa pide las tres calificaciones, aplica los pesos y muestra el resultad
 **📥 Datos de entrada:** Nota1, Nota2, Nota3  
 **⚙️ Proceso:** (nota1 × 0.3) + (nota2 × 0.3) + (nota3 × 0.4)  
 **📤 Salida:** Promedio final del estudiante
+
+---
+
+### 💻 **Pseudocódigo**
 
 ```
 Algoritmo Promedio.Notas
@@ -133,22 +164,12 @@ FinAlgoritmo
 
 ---
 
-## 🔷 **Diagrama de flujo**
-
-Un diagrama de flujo es una representación gráfica que muestra de manera clara y ordenada la secuencia de pasos o rutinas que conforman un proceso. Su objetivo principal es visualizar la estructura y el desarrollo de una actividad, permitiendo identificar las unidades involucradas, los responsables y la relación entre las distintas etapas. Se utiliza ampliamente en empresas e instituciones, tanto industriales como de servicios, por su capacidad para representar procedimientos administrativos, técnicos o de cualquier tipo de proceso que requiera organización y análisis[3].
-
----
-
-### 🧩 *Ejemplo 1:*
-
-![](https://github.com/pilarnaranjo-sys/Teoria-de-la-Programacion/blob/3ac089725f035ccd2811bcdc2b54232a53558a3a/Imagenes/Diagrama.md.png)
-
-### 🧩 *Ejemplo 2:*
-
-![](https://github.com/pilarnaranjo-sys/Teoria-de-la-Programacion/blob/36c22e6a884e552d58308d31aa062fceb62fc97d/Imagenes/Captura%20de%20pantalla%202025-10-30%20204037.png)
-
-### 🧩 *Ejemplo 3:*
+### 🧩 Diagrama de Flujo:
 
 ![](https://github.com/pilarnaranjo-sys/Teoria-de-la-Programacion/blob/90c5ffb37bc91c528b2b5106c52c30cab23ab96e/Imagenes/Captura%20de%20pantalla%202025-10-30%20203946.png)
 
 
+
+
+
+---
