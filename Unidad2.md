@@ -1,6 +1,6 @@
 ## 📚🌟 **Contenidos**
 
-- 🌼 Estructuras condicionales (tipos y ejercicios en diagrama de flujo y en C). [Detalles](Contenidos/Pseudocódigo.md)
+- 🌼 Estructuras condicionales (tipos y ejercicios en diagrama de flujo y en C). [Detalles](Contenidos/EstructurasCondicionales.md)
 - 🌸 Estructuras repetitivas (tipos y ejercicios en diagrama de flujo y en C). [Detalles](Tareas/Naranjo_Pilar.APE2..pdf)
 - 🌙 Ejercicio combinando estructura condicional y repetitiva (Java o Python). [Detalles](Contenidos/Ejemplosc.md)
 - 🚧 Principales dificultades en la aplicación de los contenidos. [Detalles](Contenidos/dificultades.md)
