@@ -2,7 +2,7 @@
 
 Los algoritmos secuenciales o lineales son aquellos en los que las instrucciones se ejecutan de forma ordenada, una tras otra, sin condiciones ni repeticiones. Este tipo de estructura se utiliza cuando el flujo del programa no requiere decisiones ni ciclos, es decir, cada paso depende únicamente del anterior.
 
-Por otro lado, compilar y ejecutar son procesos fundamentales en la programación. Compilar consiste en traducir el código fuente escrito por el programador a un lenguaje que la computadora pueda entender (lenguaje máquina). Una vez compilado, el programa puede ejecutarse, lo que significa ponerlo en marcha para que realice las acciones o cálculos definidos en el código[5].
+Por otro lado, compilar y ejecutar son procesos fundamentales en la programación. Compilar consiste en traducir el código fuente escrito por el programador a un lenguaje que la computadora pueda entender (lenguaje máquina). Una vez compilado, el programa puede ejecutarse, lo que significa ponerlo en marcha para que realice las acciones o cálculos definidos en el código.[5]
 
 A continuación, se presentan **tres ejemplos en lenguaje C** que aplican estructuras secuenciales para resolver distintos problemas prácticos.
 
