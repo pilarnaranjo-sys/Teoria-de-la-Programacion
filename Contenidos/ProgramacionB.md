@@ -1,7 +1,7 @@
 # 🧩 Programación por bloques
 
 La programación por bloques es una metodología visual que facilita el aprendizaje inicial de la programación mediante la utilización de **bloques gráficos** que representan instrucciones o estructuras lógicas. En lugar de escribir código textual, el estudiante arrastra y encastra bloques para construir programas, lo que elimina errores de sintaxis y permite enfocarse en la **lógica del problema**.
-Este enfoque promueve el Pensamiento Computacional, ya que ayuda a los alumnos a comprender conceptos como **secuencias, repeticiones, decisiones, procedimientos y parametrización** de forma visual e interactiva[1].
+Este enfoque promueve el Pensamiento Computacional, ya que ayuda a los alumnos a comprender conceptos como **secuencias, repeticiones, decisiones, procedimientos y parametrización** de forma visual e interactiva[3].
 
 ---
 
