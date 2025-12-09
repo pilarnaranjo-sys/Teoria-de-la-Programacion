@@ -16,7 +16,7 @@ Accedido el **26 de octubre de 2025**. [En línea]. Disponible en:  [https://sed
 [5]. *“Visual Studio Code.”*  **Página Principal | Apoyoescolar.**  Accedido el **27 de octubre de 2025**. [En línea]. Disponible en:  
 [https://apoyoescolar.milaulas.com/pluginfile.php/675/mod_resource/content/1/Visual%20Studio%20Code.pdf](https://apoyoescolar.milaulas.com/pluginfile.php/675/mod_resource/content/1/Visual%20Studio%20Code.pdf)
 
-[6] Microsoft, “Selection statements (if, switch),” Microsoft Learn, 2025. [En línea]. Disponible en: https://learn.microsoft.com/es-es/dotnet/csharp/language-reference/statements/selection-statements [Accedido: 21-nov-2025].
+[6] Microsoft, “Selection statements (if, switch),” Microsoft Learn, 2025. [En línea]. Disponible en: https://learn.microsoft.com/es-es/dotnet/csharp/language-reference/statements/selection-statements [Accedido: 17-nov-2025].
 
 [7] “Estructuras condicionales,” StuDocu, Colegio Unidad Educativa Dolores Veintimilla de Galindo. [En línea]. Disponible en:
-https://www.studocu.com/ec/document/colegio-unidad-educativa-dolores-veintimilla-de-galindo/ciencias-sociales/estructuras-condicionales/72109998 [Accedido: 21-nov-2025].
+https://www.studocu.com/ec/document/colegio-unidad-educativa-dolores-veintimilla-de-galindo/ciencias-sociales/estructuras-condicionales/72109998 [Accedido: 17-nov-2025].
