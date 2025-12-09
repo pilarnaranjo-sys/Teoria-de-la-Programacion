@@ -11,8 +11,9 @@ El condicional **if** ejecuta un bloque de código solo cuando una condición es
 El programa pide al usuario ingresar un número y usa un if simple para determinar si es positivo. Si la condición se cumple, muestra un mensaje; si no, simplemente termina sin mostrar nada adicional.
 
 ### 📊 Diagram de flujo
+
 ---
-![](https://github.com/pilarnaranjo-sys/Teoria-de-la-Programacion/blob/fc8a132b122821e39781f2416dc9235e2e821ccd/Imagenes/Programacion.b.png)
+![]([https://github.com/pilarnaranjo-sys/Teoria-de-la-Programacion/blob/fc8a132b122821e39781f2416dc9235e2e821ccd/Imagenes/Pr)
 
 ---
 ### 💻 Codigo en C
@@ -55,6 +56,10 @@ El programa solicita la edad del usuario y usa un if–else para comprobar si es
 ### 📊 Diagram de flujo
 
 ---
+
+![]([https://github.com/pilarnaranjo-sys/Teoria-de-la-Programacion/blob/fc8a132b122821e39781f2416dc9235e2e821ccd/Imagenes/Pr](https://github.com/pilarnaranjo-sys/Teoria-de-la-Programacion/blob/8ea9ad25f8bb08b0b6abbb3cb020973617ebb37f/Imagenes/Captura%20de%20pantalla%202025-12-09%20004720.png))
+
+---
 ### 💻 Codigo en C
 
 ---
@@ -86,6 +91,10 @@ La instrucción **switch** es una estructura de decisión que compara una variab
 El programa pide al usuario ingresar un número del **1 al 7** y, mediante la estructura `switch`, identifica qué día de la semana corresponde a ese número.
 
 ### 📊 Diagram de flujo
+
+---
+
+![]([[https://github.com/pilarnaranjo-sys/Teoria-de-la-Programacion/blob/fc8a132b122821e39781f2416dc9235e2e821ccd/Imagenes/Pr](https://github.com/pilarnaranjo-sys/Teoria-de-la-Programacion/blob/8ea9ad25f8bb08b0b6abbb3cb020973617ebb37f/Imagenes/Captura%20de%20pantalla%202025-12-09%20004720.png)](https://github.com/pilarnaranjo-sys/Teoria-de-la-Programacion/blob/8ea9ad25f8bb08b0b6abbb3cb020973617ebb37f/Imagenes/Captura%20de%20pantalla%202025-12-09%20004802.png))
 
 ---
 
