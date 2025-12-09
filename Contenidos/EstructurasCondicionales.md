@@ -2,7 +2,7 @@
 
 ## ✨ `If Simple `
 
-El condicional **if** ejecuta un bloque de código solo cuando una condición es verdadera, permitiendo tomar decisiones simples dentro del programa **[2]**. Puede funcionar por sí solo o como base para estructuras más complejas cuando se necesitan varias verificaciones.
+El condicional **if** ejecuta un bloque de código solo cuando una condición es verdadera, permitiendo tomar decisiones simples dentro del programa **[6]**. Puede funcionar por sí solo o como base para estructuras más complejas cuando se necesitan varias verificaciones.
 
 ---
 
@@ -13,9 +13,11 @@ El programa pide al usuario ingresar un número y usa un if simple para determin
 ### 📊 Diagram de flujo
 
 ---
-![]([https://github.com/pilarnaranjo-sys/Teoria-de-la-Programacion/blob/fc8a132b122821e39781f2416dc9235e2e821ccd/Imagenes/Pr)
+
+![](https://github.com/pilarnaranjo-sys/Teoria-de-la-Programacion/blob/85afbc6b2d861be9949c0222f58c4a998b7b3421/Imagenes/Captura%20de%20pantalla%202025-12-09%20004614.png)
 
 ---
+
 ### 💻 Codigo en C
 
 ---
@@ -46,7 +48,7 @@ int main() {
 ---
 ## 🌿 `If–Else`
 
-El condicional **if–else** permite elegir entre dos rutas posibles dependiendo de si una condición es verdadera o falsa **[2]**. Si la condición del **if** se cumple, se ejecuta el primer bloque; de lo contrario, se ejecuta el bloque **else**, garantizando que siempre se seleccione una de las dos opciones.
+El condicional **if–else** permite elegir entre dos rutas posibles dependiendo de si una condición es verdadera o falsa **[6]**. Si la condición del **if** se cumple, se ejecuta el primer bloque; de lo contrario, se ejecuta el bloque **else**, garantizando que siempre se seleccione una de las dos opciones.
 
  ---
  ### 🌼 Ejemplo 
@@ -57,7 +59,7 @@ El programa solicita la edad del usuario y usa un if–else para comprobar si es
 
 ---
 
-![]([https://github.com/pilarnaranjo-sys/Teoria-de-la-Programacion/blob/fc8a132b122821e39781f2416dc9235e2e821ccd/Imagenes/Pr](https://github.com/pilarnaranjo-sys/Teoria-de-la-Programacion/blob/8ea9ad25f8bb08b0b6abbb3cb020973617ebb37f/Imagenes/Captura%20de%20pantalla%202025-12-09%20004720.png))
+![](https://github.com/pilarnaranjo-sys/Teoria-de-la-Programacion/blob/85afbc6b2d861be9949c0222f58c4a998b7b3421/Imagenes/Captura%20de%20pantalla%202025-12-09%20004720.png)
 
 ---
 ### 💻 Codigo en C
@@ -83,7 +85,7 @@ int main(){
 ---
 
 ## 🌸 `Switch`
-La instrucción **switch** es una estructura de decisión que compara una variable con varios valores y ejecuta el bloque correspondiente cuando encuentra una coincidencia **[1]**. Cada **case** representa una opción específica y, si ninguna coincide, se utiliza **default** como alternativa. Además, permite usar patrones constantes o relacionales y condiciones adicionales con **when**, y cada caso debe finalizar con `break`, `goto` o `return` para evitar continuar hacia otros casos **[2]**.
+La instrucción **switch** es una estructura de decisión que compara una variable con varios valores y ejecuta el bloque correspondiente cuando encuentra una coincidencia **[6]**. Cada **case** representa una opción específica y, si ninguna coincide, se utiliza **default** como alternativa. Además, permite usar patrones constantes o relacionales y condiciones adicionales con **when**, y cada caso debe finalizar con `break`, `goto` o `return` para evitar continuar hacia otros casos **[7]**.
 
 ---
 
@@ -94,7 +96,7 @@ El programa pide al usuario ingresar un número del **1 al 7** y, mediante la es
 
 ---
 
-![]([[https://github.com/pilarnaranjo-sys/Teoria-de-la-Programacion/blob/fc8a132b122821e39781f2416dc9235e2e821ccd/Imagenes/Pr](https://github.com/pilarnaranjo-sys/Teoria-de-la-Programacion/blob/8ea9ad25f8bb08b0b6abbb3cb020973617ebb37f/Imagenes/Captura%20de%20pantalla%202025-12-09%20004720.png)](https://github.com/pilarnaranjo-sys/Teoria-de-la-Programacion/blob/8ea9ad25f8bb08b0b6abbb3cb020973617ebb37f/Imagenes/Captura%20de%20pantalla%202025-12-09%20004802.png))
+![](https://github.com/pilarnaranjo-sys/Teoria-de-la-Programacion/blob/85afbc6b2d861be9949c0222f58c4a998b7b3421/Imagenes/Captura%20de%20pantalla%202025-12-09%20004802.png)
 
 ---
 
