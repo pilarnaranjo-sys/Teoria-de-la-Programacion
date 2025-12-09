@@ -2,7 +2,7 @@
 
 - 🌼 Estructuras condicionales (tipos y ejercicios en diagrama de flujo y en C). [Detalles](Contenidos/EstructurasCondicionales.md)
 - 🌸 Estructuras repetitivas (tipos y ejercicios en diagrama de flujo y en C). [Detalles](Contenidos/EstructurasRepetitivas.md)
-- 🌙 Ejercicio combinando estructura condicional y repetitiva (Java o Python). [Detalles](Contenidos/Ejemplosc.md)
+- 🌙 Ejercicio combinando estructura condicional y repetitiva (Java o Python). [Detalles](Contenidos/Python.md)
 - 🚧 Principales dificultades en la aplicación de los contenidos. [Detalles](Contenidos/PrincipalesDificultades.md)
 - 💭 Reflexión crítica de los aprendizajes de la unidad. [Detalles](Contenidos/ReflexiónCrítica.md)
 
