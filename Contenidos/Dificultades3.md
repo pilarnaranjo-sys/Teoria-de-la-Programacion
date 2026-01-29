@@ -1,0 +1,2 @@
+### 🚧 Principales dificultades en la aplicación de los contenidos
+Durante el estudio de esta unidad, tuve dificultades con el **paso de parámetros**, especialmente al diferenciar entre **paso por valor** y **paso por referencia**. Al principio me resultaba complicado comprender cómo se manejan los datos en memoria y cómo los cambios dentro de una función pueden afectar a las variables originales. Además, los errores en el uso de **punteros** al enviar direcciones de memoria provocaban fallos en la ejecución.
