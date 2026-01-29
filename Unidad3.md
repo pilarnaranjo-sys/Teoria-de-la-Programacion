@@ -3,7 +3,7 @@
 - 🧠 Modularidad.[Detalles](Contenidos/Modularidad.md)
 - 🧩 Arreglos.[Detalles](Contenidos/Arreglos.md)
 - 🚧 Principales dificultades en la aplicación de los contenidos.[Detalles](Contenidos/Dificultades3.md)
-- 💭 Reflexión crítica de los aprendizajes de la unidad.[Detalles](Contenidos/Refexion.md)
+- 💭 Reflexión crítica de los aprendizajes de la unidad.[Detalles](Contenidos/Reflexion3.md)
 
 ## 📑 **Tareas EntregadaS**
 
