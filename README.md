@@ -28,7 +28,7 @@
 
 ---
 
-## 🧾 **[Conclusiones Generales](Conclusiones_Generales.md)**(Proximamente)
+## 🧾 **[Conclusiones Generales](Conclusiones_Generales.md)**
 
 ---
 
