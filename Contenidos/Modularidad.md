@@ -1,6 +1,6 @@
 # 🧩 Modularidad
 
-La **modularidad** consiste en dividir un programa grande en módulos pequeños e independientes, cada uno con una función específica, con el fin de facilitar su comprensión, mantenimiento y reutilización. Esta técnica se basa en el principio de **divide y vencerás**, lo que permite reducir la complejidad de los algoritmos y mejorar la organización del código. 🚀
+La **modularidad** consiste en dividir un programa grande en módulos pequeños e independientes, cada uno con una función específica, con el fin de facilitar su comprensión, mantenimiento y reutilización. Esta técnica se basa en el principio de **divide y vencerás**, lo que permite reducir la complejidad de los algoritmos y mejorar la organización del código[8]. 
 
 La modularidad se relaciona directamente con el **paso de parámetros**, que es el mecanismo mediante el cual se envían datos desde el programa principal hacia las funciones o subprogramas. Este proceso puede realizarse de dos formas:
 
