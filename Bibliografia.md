@@ -20,3 +20,6 @@ Accedido el **26 de octubre de 2025**. [En línea]. Disponible en:  [https://sed
 
 [7] “Estructuras condicionales,” StuDocu, Colegio Unidad Educativa Dolores Veintimilla de Galindo. [En línea]. Disponible en:
 https://www.studocu.com/ec/document/colegio-unidad-educativa-dolores-veintimilla-de-galindo/ciencias-sociales/estructuras-condicionales/72109998 [Accedido: 17-nov-2025].
+
+[8] R. Maldonado, “¿Qué es la programación modular?,” KeepCoding, 14-oct-2024. [En línea]. Disponible en: https://keepcoding.io/blog/que-es-la-programacion-modular-y-como-funciona/
+ [Accedido: 27-ene-2026].
